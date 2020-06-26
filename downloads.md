@@ -1,6 +1,9 @@
 # Donwloads for our Products
 Ayaspell [![downloads]( https://img.shields.io/sourceforge/dt/ayaspell.svg)](http://sourceforge.org/projects/ayaspell)
 
+Ayaspell Firefox extension: [![downloads]( https://img.shields.io/amo/dw/arabic-spell-checking-dictiona.svg)](https://addons.mozilla.org/ar/firefox/addon/arabic-spell-checking-dictiona/)
+Ayaspell Firefox extension: [![users]( https://img.shields.io/amo/users/arabic-spell-checking-dictiona.svg)](https://addons.mozilla.org/ar/firefox/addon/arabic-spell-checking-dictiona/)
+
 Mishkal [![downloads]( https://img.shields.io/sourceforge/dt/mishkal.svg)](http://sourceforge.org/projects/mishkal)
 
 Ghalatawi [![downloads]( https://img.shields.io/sourceforge/dt/ghalatawi.svg)](http://sourceforge.org/projects/ghalatawi)
