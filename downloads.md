@@ -14,7 +14,7 @@ Qutrub [![downloads]( https://img.shields.io/sourceforge/dt/qutrub.svg)](http://
 Maskouk [![downloads]( https://img.shields.io/sourceforge/dt/maskouk.svg)](http://sourceforge.org/projects/maskouk)
 
 
-Adawta [![downloads]( https://img.shields.io/sourceforge/dt/adawat.svg)](http://sourceforge.org/projects/adawat)
+Adawat [![downloads]( https://img.shields.io/sourceforge/dt/adawat.svg)](http://sourceforge.org/projects/adawat)
 
 
 arabic-espeak  [![downloads]( https://img.shields.io/sourceforge/dt/arabic-espeak.svg)](http://sourceforge.org/projects/arabic-espeak)
