@@ -38,3 +38,15 @@ Tashaphyne ![PyPI - Downloads](https://img.shields.io/pypi/dm/tashaphyne)
 
 Qalsadi ![PyPI - Downloads](https://img.shields.io/pypi/dm/qalsadi)
 
+Alyahmor morphology generator ![PyPI - Downloads](https://img.shields.io/pypi/dm/alyahmor)
+
+Mysam-tagmanager ![PyPI - Downloads](https://img.shields.io/pypi/dm/mysam-tagmanager)
+
+Lib Qutrub ![PyPI - Downloads](https://img.shields.io/pypi/dm/libqutrub)
+
+Arramooz pySqlite ![PyPI - Downloads](https://img.shields.io/pypi/dm/arramooz-pysqlite)
+
+Naftawayh word tagger ![PyPI - Downloads](https://img.shields.io/pypi/dm/Naftawayh)
+
+Ghalatawi ![PyPI - Downloads](https://img.shields.io/pypi/dm/ghalatawi)
+
