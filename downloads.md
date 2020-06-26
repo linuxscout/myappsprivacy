@@ -20,6 +20,7 @@ arabic-espeak  [![downloads]( https://img.shields.io/sourceforge/dt/arabic-espea
 
 Mishkal [![downloads]( https://img.shields.io/sourceforge/dm/mishkal.svg)](http://sourceforge.org/projects/mishkal)
 
+## Resources
 
 Arramooz [![downloads]( https://img.shields.io/sourceforge/dt/arramooz.svg)](http://sourceforge.org/projects/arramooz)
 
@@ -28,3 +29,12 @@ Tashkeela [![downloads]( https://img.shields.io/sourceforge/dt/tashkeela.svg)](h
 arabicstopwords [![downloads]( https://img.shields.io/sourceforge/dt/arabicstopwords.svg)](http://sourceforge.org/projects/arabicstopwords)
 
 arabicwordcorpu  [![downloads]( https://img.shields.io/sourceforge/dt/arabicwordcorpu.svg)](http://sourceforge.org/projects/arabicwordcorpu)
+
+## Libraries 
+
+Pyarabic ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyarabic)
+
+Tashaphyne ![PyPI - Downloads](https://img.shields.io/pypi/dm/tashaphyne)
+
+Qalsadi ![PyPI - Downloads](https://img.shields.io/pypi/dm/qalsadi)
+
