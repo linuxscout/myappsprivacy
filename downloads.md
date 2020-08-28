@@ -37,6 +37,14 @@ Pyarabic ![PyPI - Downloads](https://img.shields.io/pypi/dm/pyarabic)
 
 Tashaphyne ![PyPI - Downloads](https://img.shields.io/pypi/dm/tashaphyne)
 
+Mishkal ![PyPI - Downloads](https://img.shields.io/pypi/dm/mishkal)
+
+Adawat ![PyPI - Downloads](https://img.shields.io/pypi/dm/adawat)
+
+Arrand ![PyPI - Downloads](https://img.shields.io/pypi/dm/arrand)
+
+Maskouk-pysqlite ![PyPI - Downloads](https://img.shields.io/pypi/dm/maskouk-pysqlite)
+
 Qalsadi ![PyPI - Downloads](https://img.shields.io/pypi/dm/qalsadi)
 
 Alyahmor morphology generator ![PyPI - Downloads](https://img.shields.io/pypi/dm/alyahmor)
@@ -51,3 +59,8 @@ Naftawayh word tagger ![PyPI - Downloads](https://img.shields.io/pypi/dm/Naftawa
 
 Ghalatawi ![PyPI - Downloads](https://img.shields.io/pypi/dm/ghalatawi)
 
+Sylajone ![PyPI - Downloads](https://img.shields.io/pypi/dm/sylajone)
+
+Asmai ![PyPI - Downloads](https://img.shields.io/pypi/dm/asmai)
+
+Mishtar ![PyPI - Downloads](https://img.shields.io/pypi/dm/mishtar)
